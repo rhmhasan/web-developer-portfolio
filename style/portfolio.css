@@ -129,3 +129,21 @@ main{
 .about-info{
     text-align: center;
 }
+
+/* What I Do Style */
+#what-i-do-descripotion{
+    padding: 30px 130px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+
+.skills{
+    max-width: 267px;
+    padding: 30px;
+    box-shadow: 0px 1px 5px 0px;
+    border-radius: 5px;
+}
